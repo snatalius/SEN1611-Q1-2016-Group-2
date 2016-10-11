@@ -1,0 +1,18 @@
+PREFIX ex: <http://example.com/> 
+
+CONSTRUCT {
+	?uri
+		<http://example.com/factor> "Gross Domestic Expenditure on R&D (GERD)";
+		<http://example.com/country> ?Country;
+		<http://example.com/2005> ?2005;
+		<http://example.com/2006> ?2006;
+		<http://example.com/2007> ?2007;
+		<http://example.com/2008> ?2008;
+		<http://example.com/2009> ?2009;
+		<http://example.com/2010> ?2010;
+		<http://example.com/2011> ?2011;
+		<http://example.com/2012> ?2012;
+}
+WHERE {
+	BIND (URI(CONCAT('http://example.com/10/', ?Country)) AS ?uri)
+}
