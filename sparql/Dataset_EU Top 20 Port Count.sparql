@@ -1,0 +1,12 @@
+PREFIX ex:<http://example.com/> 
+
+CONSTRUCT {
+	?uri
+		<http://example.com/factor> "EU Top 20 Port Count";
+		<http://example.com/country> ?Country;
+		<http://example.com/count>?Count.
+		
+}
+WHERE {
+	BIND (URI(CONCAT('http://example.com/12/', ?Country)) AS ?uri)
+}
