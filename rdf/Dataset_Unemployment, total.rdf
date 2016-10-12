@@ -1,0 +1,337 @@
+@prefix ex:  <http://example.com/> .
+
+<http://example.com/9/Austria>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Austria" ;
+        ex:2005     "2.38" ;
+        ex:2006     "2.37" ;
+        ex:2007     "2.43" ;
+        ex:2008     "2.59" ;
+        ex:2009     "2.61" ;
+        ex:2010     "2.74" ;
+        ex:2011     "2.68" ;
+        ex:2012     "2.89" .
+
+<http://example.com/9/Belgium>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Belgium" ;
+        ex:2005     "1.78" ;
+        ex:2006     "1.81" ;
+        ex:2007     "1.84" ;
+        ex:2008     "1.92" ;
+        ex:2009     "1.99" ;
+        ex:2010     "2.05" ;
+        ex:2011     "2.16" ;
+        ex:2012     "2.36" .
+
+<http://example.com/9/Bulgaria>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Bulgaria" ;
+        ex:2005     "0.44" ;
+        ex:2006     "0.44" ;
+        ex:2007     "0.43" ;
+        ex:2008     "0.45" ;
+        ex:2009     "0.5" ;
+        ex:2010     "0.57" ;
+        ex:2011     "0.54" ;
+        ex:2012     "0.61" .
+
+<http://example.com/9/Croatia>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Croatia" ;
+        ex:2005     "0.86" ;
+        ex:2006     "0.74" ;
+        ex:2007     "0.79" ;
+        ex:2008     "0.88" ;
+        ex:2009     "0.84" ;
+        ex:2010     "0.74" ;
+        ex:2011     "0.75" ;
+        ex:2012     "0.75" .
+
+<http://example.com/9/Cyprus>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Cyprus" ;
+        ex:2005     "0.37" ;
+        ex:2006     "0.39" ;
+        ex:2007     "0.4" ;
+        ex:2008     "0.39" ;
+        ex:2009     "0.45" ;
+        ex:2010     "0.45" ;
+        ex:2011     "0.45" ;
+        ex:2012     "0.43" .
+
+<http://example.com/9/Czech%20Republic>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Czech Republic" ;
+        ex:2005     "1.17" ;
+        ex:2006     "1.23" ;
+        ex:2007     "1.31" ;
+        ex:2008     "1.24" ;
+        ex:2009     "1.3" ;
+        ex:2010     "1.34" ;
+        ex:2011     "1.56" ;
+        ex:2012     "1.79" .
+
+<http://example.com/9/Denmark>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Denmark" ;
+        ex:2005     "2.39" ;
+        ex:2006     "2.4" ;
+        ex:2007     "2.51" ;
+        ex:2008     "2.78" ;
+        ex:2009     "3.07" ;
+        ex:2010     "2.94" ;
+        ex:2011     "2.97" ;
+        ex:2012     "3" .
+
+<http://example.com/9/Estonia>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Estonia" ;
+        ex:2005     "0.92" ;
+        ex:2006     "1.12" ;
+        ex:2007     "1.07" ;
+        ex:2008     "1.26" ;
+        ex:2009     "1.4" ;
+        ex:2010     "1.58" ;
+        ex:2011     "2.31" ;
+        ex:2012     "2.11" .
+
+<http://example.com/9/Finland>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Finland" ;
+        ex:2005     "3.33" ;
+        ex:2006     "3.34" ;
+        ex:2007     "3.35" ;
+        ex:2008     "3.55" ;
+        ex:2009     "3.75" ;
+        ex:2010     "3.73" ;
+        ex:2011     "3.64" ;
+        ex:2012     "3.42" .
+
+<http://example.com/9/France>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "France" ;
+        ex:2005     "2.04" ;
+        ex:2006     "2.05" ;
+        ex:2007     "2.02" ;
+        ex:2008     "2.06" ;
+        ex:2009     "2.21" ;
+        ex:2010     "2.18" ;
+        ex:2011     "2.19" ;
+        ex:2012     "2.23" .
+
+<http://example.com/9/Germany>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Germany" ;
+        ex:2005     "2.42" ;
+        ex:2006     "2.46" ;
+        ex:2007     "2.45" ;
+        ex:2008     "2.6" ;
+        ex:2009     "2.72" ;
+        ex:2010     "2.71" ;
+        ex:2011     "2.79" ;
+        ex:2012     "2.87" .
+
+<http://example.com/9/Greece>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Greece" ;
+        ex:2005     "0.58" ;
+        ex:2006     "0.56" ;
+        ex:2007     "0.58" ;
+        ex:2008     "0.66" ;
+        ex:2009     "0.63" ;
+        ex:2010     "0.6" ;
+        ex:2011     "0.67" ;
+        ex:2012     "0.7" .
+
+<http://example.com/9/Hungary>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Hungary" ;
+        ex:2005     "0.93" ;
+        ex:2006     "0.99" ;
+        ex:2007     "0.96" ;
+        ex:2008     "0.99" ;
+        ex:2009     "1.14" ;
+        ex:2010     "1.15" ;
+        ex:2011     "1.2" ;
+        ex:2012     "1.27" .
+
+<http://example.com/9/Ireland>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Ireland" ;
+        ex:2005     "1.19" ;
+        ex:2006     "1.2" ;
+        ex:2007     "1.23" ;
+        ex:2008     "1.39" ;
+        ex:2009     "1.61" ;
+        ex:2010     "1.61" ;
+        ex:2011     "1.53" ;
+        ex:2012     "1.56" .
+
+<http://example.com/9/Italy>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Italy" ;
+        ex:2005     "1.05" ;
+        ex:2006     "1.09" ;
+        ex:2007     "1.13" ;
+        ex:2008     "1.16" ;
+        ex:2009     "1.22" ;
+        ex:2010     "1.22" ;
+        ex:2011     "1.21" ;
+        ex:2012     "1.27" .
+
+<http://example.com/9/Latvia>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Latvia" ;
+        ex:2005     "0.53" ;
+        ex:2006     "0.65" ;
+        ex:2007     "0.55" ;
+        ex:2008     "0.58" ;
+        ex:2009     "0.45" ;
+        ex:2010     "0.61" ;
+        ex:2011     "0.7" ;
+        ex:2012     "0.67" .
+
+<http://example.com/9/Lithuania>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Lithuania" ;
+        ex:2005     "0.75" ;
+        ex:2006     "0.79" ;
+        ex:2007     "0.8" ;
+        ex:2008     "0.79" ;
+        ex:2009     "0.83" ;
+        ex:2010     "0.78" ;
+        ex:2011     "0.9" ;
+        ex:2012     "0.9" .
+
+<http://example.com/9/Luxembourg>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Luxembourg" ;
+        ex:2005     "1.59" ;
+        ex:2006     "1.69" ;
+        ex:2007     "1.61" ;
+        ex:2008     "1.64" ;
+        ex:2009     "1.71" ;
+        ex:2010     "1.53" ;
+        ex:2011     "1.5" ;
+        ex:2012     "1.29" .
+
+<http://example.com/9/Malta>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Malta" ;
+        ex:2005     "0.53" ;
+        ex:2006     "0.58" ;
+        ex:2007     "0.55" ;
+        ex:2008     "0.53" ;
+        ex:2009     "0.52" ;
+        ex:2010     "0.64" ;
+        ex:2011     "0.69" ;
+        ex:2012     "0.86" .
+
+<http://example.com/9/Netherlands>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Netherlands" ;
+        ex:2005     "1.79" ;
+        ex:2006     "1.76" ;
+        ex:2007     "1.69" ;
+        ex:2008     "1.64" ;
+        ex:2009     "1.69" ;
+        ex:2010     "1.72" ;
+        ex:2011     "1.9" ;
+        ex:2012     "1.94" .
+
+<http://example.com/9/Poland>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Poland" ;
+        ex:2005     "0.57" ;
+        ex:2006     "0.55" ;
+        ex:2007     "0.56" ;
+        ex:2008     "0.6" ;
+        ex:2009     "0.67" ;
+        ex:2010     "0.72" ;
+        ex:2011     "0.75" ;
+        ex:2012     "0.88" .
+
+<http://example.com/9/Portugal>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Portugal" ;
+        ex:2005     "0.76" ;
+        ex:2006     "0.95" ;
+        ex:2007     "1.12" ;
+        ex:2008     "1.45" ;
+        ex:2009     "1.58" ;
+        ex:2010     "1.53" ;
+        ex:2011     "1.46" ;
+        ex:2012     "1.38" .
+
+<http://example.com/9/Romania>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Romania" ;
+        ex:2005     "0.41" ;
+        ex:2006     "0.45" ;
+        ex:2007     "0.52" ;
+        ex:2008     "0.57" ;
+        ex:2009     "0.46" ;
+        ex:2010     "0.45" ;
+        ex:2011     "0.49" ;
+        ex:2012     "0.48" .
+
+<http://example.com/9/Slovakia>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Slovakia" ;
+        ex:2005     "0.5" ;
+        ex:2006     "0.48" ;
+        ex:2007     "0.45" ;
+        ex:2008     "0.46" ;
+        ex:2009     "0.47" ;
+        ex:2010     "0.62" ;
+        ex:2011     "0.67" ;
+        ex:2012     "0.81" .
+
+<http://example.com/9/Slovenia>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Slovenia" ;
+        ex:2005     "1.41" ;
+        ex:2006     "1.53" ;
+        ex:2007     "1.42" ;
+        ex:2008     "1.63" ;
+        ex:2009     "1.82" ;
+        ex:2010     "2.06" ;
+        ex:2011     "2.42" ;
+        ex:2012     "2.58" .
+
+<http://example.com/9/Spain>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Spain" ;
+        ex:2005     "1.1" ;
+        ex:2006     "1.17" ;
+        ex:2007     "1.23" ;
+        ex:2008     "1.32" ;
+        ex:2009     "1.35" ;
+        ex:2010     "1.35" ;
+        ex:2011     "1.33" ;
+        ex:2012     "1.28" .
+
+<http://example.com/9/Sweden>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "Sweden" ;
+        ex:2005     "3.39" ;
+        ex:2006     "3.5" ;
+        ex:2007     "3.26" ;
+        ex:2008     "3.5" ;
+        ex:2009     "3.45" ;
+        ex:2010     "3.22" ;
+        ex:2011     "3.25" ;
+        ex:2012     "3.28" .
+
+<http://example.com/9/United%20Kingdom>
+        ex:factor   "Unemployment, total" ;
+        ex:country  "United Kingdom" ;
+        ex:2005     "1.63" ;
+        ex:2006     "1.65" ;
+        ex:2007     "1.68" ;
+        ex:2008     "1.69" ;
+        ex:2009     "1.74" ;
+        ex:2010     "1.69" ;
+        ex:2011     "1.69" ;
+        ex:2012     "1.62" .

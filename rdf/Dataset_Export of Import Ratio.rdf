@@ -1,0 +1,337 @@
+@prefix ex:  <http://example.com/> .
+
+<http://example.com/3/Belgium>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Belgium" ;
+        ex:2005     "1.05" ;
+        ex:2006     "1.05" ;
+        ex:2007     "1.05" ;
+        ex:2008     "1.01" ;
+        ex:2009     "1.04" ;
+        ex:2010     "1.03" ;
+        ex:2011     "1.01" ;
+        ex:2012     "1.01" .
+
+<http://example.com/3/Bulgaria>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Bulgaria" ;
+        ex:2005     "0.73" ;
+        ex:2006     "0.78" ;
+        ex:2007     "0.75" ;
+        ex:2008     "0.74" ;
+        ex:2009     "0.84" ;
+        ex:2010     "0.97" ;
+        ex:2011     "1" ;
+        ex:2012     "0.96" .
+
+<http://example.com/3/Czech%20Republic>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Czech Republic" ;
+        ex:2005     "1.04" ;
+        ex:2006     "1.05" ;
+        ex:2007     "1.04" ;
+        ex:2008     "1.04" ;
+        ex:2009     "1.07" ;
+        ex:2010     "1.05" ;
+        ex:2011     "1.06" ;
+        ex:2012     "1.08" .
+
+<http://example.com/3/Denmark>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Denmark" ;
+        ex:2005     "1.11" ;
+        ex:2006     "1.07" ;
+        ex:2007     "1.05" ;
+        ex:2008     "1.06" ;
+        ex:2009     "1.09" ;
+        ex:2010     "1.12" ;
+        ex:2011     "1.11" ;
+        ex:2012     "1.1" .
+
+<http://example.com/3/Germany>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Germany" ;
+        ex:2005     "1.14" ;
+        ex:2006     "1.14" ;
+        ex:2007     "1.17" ;
+        ex:2008     "1.15" ;
+        ex:2009     "1.13" ;
+        ex:2010     "1.13" ;
+        ex:2011     "1.11" ;
+        ex:2012     "1.13" .
+
+<http://example.com/3/Estonia>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Estonia" ;
+        ex:2005     "0.92" ;
+        ex:2006     "0.88" ;
+        ex:2007     "0.88" ;
+        ex:2008     "0.95" ;
+        ex:2009     "1.09" ;
+        ex:2010     "1.09" ;
+        ex:2011     "1.03" ;
+        ex:2012     "0.99" .
+
+<http://example.com/3/Ireland>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Ireland" ;
+        ex:2005     "1.17" ;
+        ex:2006     "1.14" ;
+        ex:2007     "1.13" ;
+        ex:2008     "1.12" ;
+        ex:2009     "1.22" ;
+        ex:2010     "1.23" ;
+        ex:2011     "1.27" ;
+        ex:2012     "1.29" .
+
+<http://example.com/3/Greece>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Greece" ;
+        ex:2005     "0.71" ;
+        ex:2006     "0.67" ;
+        ex:2007     "0.63" ;
+        ex:2008     "0.62" ;
+        ex:2009     "0.63" ;
+        ex:2010     "0.71" ;
+        ex:2011     "0.76" ;
+        ex:2012     "0.85" .
+
+<http://example.com/3/Spain>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Spain" ;
+        ex:2005     "0.83" ;
+        ex:2006     "0.81" ;
+        ex:2007     "0.8" ;
+        ex:2008     "0.82" ;
+        ex:2009     "0.93" ;
+        ex:2010     "0.93" ;
+        ex:2011     "0.97" ;
+        ex:2012     "1.02" .
+
+<http://example.com/3/France>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "France" ;
+        ex:2005     "0.98" ;
+        ex:2006     "0.96" ;
+        ex:2007     "0.95" ;
+        ex:2008     "0.93" ;
+        ex:2009     "0.93" ;
+        ex:2010     "0.92" ;
+        ex:2011     "0.9" ;
+        ex:2012     "0.93" .
+
+<http://example.com/3/Croatia>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Croatia" ;
+        ex:2005     "0.87" ;
+        ex:2006     "0.86" ;
+        ex:2007     "0.85" ;
+        ex:2008     "0.84" ;
+        ex:2009     "0.91" ;
+        ex:2010     "0.99" ;
+        ex:2011     "0.99" ;
+        ex:2012     "1.01" .
+
+<http://example.com/3/Italy>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Italy" ;
+        ex:2005     "1" ;
+        ex:2006     "0.97" ;
+        ex:2007     "0.99" ;
+        ex:2008     "0.97" ;
+        ex:2009     "0.98" ;
+        ex:2010     "0.93" ;
+        ex:2011     "0.95" ;
+        ex:2012     "1.04" .
+
+<http://example.com/3/Cyprus>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Cyprus" ;
+        ex:2005     "0.95" ;
+        ex:2006     "0.93" ;
+        ex:2007     "0.89" ;
+        ex:2008     "0.8" ;
+        ex:2009     "0.88" ;
+        ex:2010     "0.87" ;
+        ex:2011     "0.91" ;
+        ex:2012     "0.93" .
+
+<http://example.com/3/Latvia>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Latvia" ;
+        ex:2005     "0.77" ;
+        ex:2006     "0.68" ;
+        ex:2007     "0.68" ;
+        ex:2008     "0.76" ;
+        ex:2009     "0.97" ;
+        ex:2010     "0.98" ;
+        ex:2011     "0.92" ;
+        ex:2012     "0.94" .
+
+<http://example.com/3/Lithuania>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Lithuania" ;
+        ex:2005     "0.89" ;
+        ex:2006     "0.85" ;
+        ex:2007     "0.8" ;
+        ex:2008     "0.83" ;
+        ex:2009     "0.97" ;
+        ex:2010     "0.97" ;
+        ex:2011     "0.97" ;
+        ex:2012     "1.01" .
+
+<http://example.com/3/Luxembourg>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Luxembourg" ;
+        ex:2005     "1.2" ;
+        ex:2006     "1.22" ;
+        ex:2007     "1.22" ;
+        ex:2008     "1.2" ;
+        ex:2009     "1.24" ;
+        ex:2010     "1.22" ;
+        ex:2011     "1.21" ;
+        ex:2012     "1.2" .
+
+<http://example.com/3/Hungary>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Hungary" ;
+        ex:2005     "0.97" ;
+        ex:2006     "0.99" ;
+        ex:2007     "1.01" ;
+        ex:2008     "1.01" ;
+        ex:2009     "1.07" ;
+        ex:2010     "1.07" ;
+        ex:2011     "1.08" ;
+        ex:2012     "1.08" .
+
+<http://example.com/3/Malta>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Malta" ;
+        ex:2005     "0.96" ;
+        ex:2006     "0.95" ;
+        ex:2007     "0.99" ;
+        ex:2008     "0.98" ;
+        ex:2009     "0.97" ;
+        ex:2010     "0.99" ;
+        ex:2011     "1.03" ;
+        ex:2012     "1.05" .
+
+<http://example.com/3/Netherlands>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Netherlands" ;
+        ex:2005     "1.14" ;
+        ex:2006     "1.12" ;
+        ex:2007     "1.12" ;
+        ex:2008     "1.12" ;
+        ex:2009     "1.11" ;
+        ex:2010     "1.11" ;
+        ex:2011     "1.11" ;
+        ex:2012     "1.11" .
+
+<http://example.com/3/Austria>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Austria" ;
+        ex:2005     "1.08" ;
+        ex:2006     "1.1" ;
+        ex:2007     "1.11" ;
+        ex:2008     "1.11" ;
+        ex:2009     "1.1" ;
+        ex:2010     "1.09" ;
+        ex:2011     "1.06" ;
+        ex:2012     "1.06" .
+
+<http://example.com/3/Poland>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Poland" ;
+        ex:2005     "0.98" ;
+        ex:2006     "0.96" ;
+        ex:2007     "0.93" ;
+        ex:2008     "0.91" ;
+        ex:2009     "1" ;
+        ex:2010     "0.97" ;
+        ex:2011     "0.98" ;
+        ex:2012     "1.01" .
+
+<http://example.com/3/Portugal>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Portugal" ;
+        ex:2005     "0.75" ;
+        ex:2006     "0.78" ;
+        ex:2007     "0.8" ;
+        ex:2008     "0.76" ;
+        ex:2009     "0.79" ;
+        ex:2010     "0.8" ;
+        ex:2011     "0.89" ;
+        ex:2012     "0.98" .
+
+<http://example.com/3/Romania>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Romania" ;
+        ex:2005     "0.76" ;
+        ex:2006     "0.73" ;
+        ex:2007     "0.68" ;
+        ex:2008     "0.7" ;
+        ex:2009     "0.84" ;
+        ex:2010     "0.86" ;
+        ex:2011     "0.88" ;
+        ex:2012     "0.9" .
+
+<http://example.com/3/Slovenia>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Slovenia" ;
+        ex:2005     "0.99" ;
+        ex:2006     "0.99" ;
+        ex:2007     "0.98" ;
+        ex:2008     "0.96" ;
+        ex:2009     "1.04" ;
+        ex:2010     "1.02" ;
+        ex:2011     "1.02" ;
+        ex:2012     "1.07" .
+
+<http://example.com/3/Slovakia>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Slovakia" ;
+        ex:2005     "0.94" ;
+        ex:2006     "0.95" ;
+        ex:2007     "0.99" ;
+        ex:2008     "0.97" ;
+        ex:2009     "0.99" ;
+        ex:2010     "1" ;
+        ex:2011     "1.01" ;
+        ex:2012     "1.06" .
+
+<http://example.com/3/Finland>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Finland" ;
+        ex:2005     "1.11" ;
+        ex:2006     "1.12" ;
+        ex:2007     "1.13" ;
+        ex:2008     "1.09" ;
+        ex:2009     "1.05" ;
+        ex:2010     "1.03" ;
+        ex:2011     "0.98" ;
+        ex:2012     "0.98" .
+
+<http://example.com/3/Sweden>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "Sweden" ;
+        ex:2005     "1.19" ;
+        ex:2006     "1.19" ;
+        ex:2007     "1.17" ;
+        ex:2008     "1.14" ;
+        ex:2009     "1.16" ;
+        ex:2010     "1.14" ;
+        ex:2011     "1.13" ;
+        ex:2012     "1.14" .
+
+<http://example.com/3/United%20Kingdom>
+        ex:factor   "Export of Import Ratio" ;
+        ex:country  "United Kingdom" ;
+        ex:2005     "0.91" ;
+        ex:2006     "0.92" ;
+        ex:2007     "0.91" ;
+        ex:2008     "0.93" ;
+        ex:2009     "0.95" ;
+        ex:2010     "0.93" ;
+        ex:2011     "0.95" ;
+        ex:2012     "0.94" .

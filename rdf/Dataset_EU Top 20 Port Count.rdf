@@ -1,0 +1,141 @@
+@prefix ex:  <http://example.com/> .
+
+<http://example.com/12/Austria>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Austria" ;
+        ex:count    "0" .
+
+<http://example.com/12/Belgium>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Belgium" ;
+        ex:count    "2" .
+
+<http://example.com/12/Bulgaria>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Bulgaria" ;
+        ex:count    "0" .
+
+<http://example.com/12/Croatia>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Croatia" ;
+        ex:count    "0" .
+
+<http://example.com/12/Cyprus>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Cyprus" ;
+        ex:count    "0" .
+
+<http://example.com/12/Czech%20Republic>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Czech Republic" ;
+        ex:count    "0" .
+
+<http://example.com/12/Germany>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Germany" ;
+        ex:count    "2" .
+
+<http://example.com/12/Denmark>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Denmark" ;
+        ex:count    "0" .
+
+<http://example.com/12/Spain>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Spain" ;
+        ex:count    "4" .
+
+<http://example.com/12/Estonia>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Estonia" ;
+        ex:count    "0" .
+
+<http://example.com/12/France>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "France" ;
+        ex:count    "1" .
+
+<http://example.com/12/United%20Kingdom>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "United Kingdom" ;
+        ex:count    "3" .
+
+<http://example.com/12/Greece>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Greece" ;
+        ex:count    "1" .
+
+<http://example.com/12/Hungary>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Hungary" ;
+        ex:count    "0" .
+
+<http://example.com/12/Ireland>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Ireland" ;
+        ex:count    "1" .
+
+<http://example.com/12/Italy>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Italy" ;
+        ex:count    "3" .
+
+<http://example.com/12/Lithuania>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Lithuania" ;
+        ex:count    "0" .
+
+<http://example.com/12/Luxembourg>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Luxembourg" ;
+        ex:count    "0" .
+
+<http://example.com/12/Latvia>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Latvia" ;
+        ex:count    "0" .
+
+<http://example.com/12/Malta>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Malta" ;
+        ex:count    "1" .
+
+<http://example.com/12/Netherlands>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Netherlands" ;
+        ex:count    "1" .
+
+<http://example.com/12/Norway>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Norway" ;
+        ex:count    "0" .
+
+<http://example.com/12/Poland>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Poland" ;
+        ex:count    "0" .
+
+<http://example.com/12/Portugal>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Portugal" ;
+        ex:count    "0" .
+
+<http://example.com/12/Romania>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Romania" ;
+        ex:count    "0" .
+
+<http://example.com/12/Slovak%20Republic>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Slovak Republic" ;
+        ex:count    "0" .
+
+<http://example.com/12/Slovenia>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Slovenia" ;
+        ex:count    "0" .
+
+<http://example.com/12/Sweden>
+        ex:factor   "EU Top 20 Port Count" ;
+        ex:country  "Sweden" ;
+        ex:count    "0" .

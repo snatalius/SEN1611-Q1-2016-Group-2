@@ -1,0 +1,141 @@
+@prefix ex:  <http://example.com/> .
+
+<http://example.com/5/Austria>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Austria" ;
+        ex:count    "0" .
+
+<http://example.com/5/Belgium>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Belgium" ;
+        ex:count    "1" .
+
+<http://example.com/5/Bulgaria>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Bulgaria" ;
+        ex:count    "0" .
+
+<http://example.com/5/Croatia>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Croatia" ;
+        ex:count    "0" .
+
+<http://example.com/5/Cyprus>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Cyprus" ;
+        ex:count    "0" .
+
+<http://example.com/5/Czech%20Republic>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Czech Republic" ;
+        ex:count    "0" .
+
+<http://example.com/5/Germany>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Germany" ;
+        ex:count    "4" .
+
+<http://example.com/5/Denmark>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Denmark" ;
+        ex:count    "0" .
+
+<http://example.com/5/Spain>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Spain" ;
+        ex:count    "0" .
+
+<http://example.com/5/Estonia>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Estonia" ;
+        ex:count    "0" .
+
+<http://example.com/5/France>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "France" ;
+        ex:count    "1" .
+
+<http://example.com/5/United%20Kingdom>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "United Kingdom" ;
+        ex:count    "6" .
+
+<http://example.com/5/Greece>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Greece" ;
+        ex:count    "0" .
+
+<http://example.com/5/Hungary>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Hungary" ;
+        ex:count    "0" .
+
+<http://example.com/5/Ireland>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Ireland" ;
+        ex:count    "0" .
+
+<http://example.com/5/Italy>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Italy" ;
+        ex:count    "2" .
+
+<http://example.com/5/Lithuania>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Lithuania" ;
+        ex:count    "0" .
+
+<http://example.com/5/Luxembourg>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Luxembourg" ;
+        ex:count    "0" .
+
+<http://example.com/5/Latvia>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Latvia" ;
+        ex:count    "0" .
+
+<http://example.com/5/Malta>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Malta" ;
+        ex:count    "0" .
+
+<http://example.com/5/Netherlands>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Netherlands" ;
+        ex:count    "1" .
+
+<http://example.com/5/Norway>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Norway" ;
+        ex:count    "0" .
+
+<http://example.com/5/Poland>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Poland" ;
+        ex:count    "0" .
+
+<http://example.com/5/Portugal>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Portugal" ;
+        ex:count    "0" .
+
+<http://example.com/5/Romania>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Romania" ;
+        ex:count    "0" .
+
+<http://example.com/5/Slovak%20Republic>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Slovak Republic" ;
+        ex:count    "0" .
+
+<http://example.com/5/Slovenia>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Slovenia" ;
+        ex:count    "0" .
+
+<http://example.com/5/Sweden>
+        ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
+        ex:country  "Sweden" ;
+        ex:count    "2" .

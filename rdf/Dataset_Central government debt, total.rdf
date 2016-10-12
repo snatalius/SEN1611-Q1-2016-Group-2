@@ -1,0 +1,329 @@
+@prefix ex:  <http://example.com/> .
+
+<http://example.com/2/Austria>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Austria" ;
+        ex:2005     "63.72177062" ;
+        ex:2006     "66.70927161" ;
+        ex:2007     "69.69677261" ;
+        ex:2008     "72.6842736" ;
+        ex:2009     "75.67177459" ;
+        ex:2010     "79.40830371" ;
+        ex:2011     "80.14872034" ;
+        ex:2012     "85.38330569" .
+
+<http://example.com/2/Belgium>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Belgium" ;
+        ex:2005     "62.53318667" ;
+        ex:2006     "68.27957448" ;
+        ex:2007     "74.02596228" ;
+        ex:2008     "79.77235008" ;
+        ex:2009     "85.51873789" ;
+        ex:2010     "92.31364265" ;
+        ex:2011     "94.91447928" ;
+        ex:2012     "103.8064183" .
+
+<http://example.com/2/Bulgaria>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Bulgaria" ;
+        ex:2005     "7.612389789" ;
+        ex:2006     "8.908528343" ;
+        ex:2007     "10.2046669" ;
+        ex:2008     "11.50080545" ;
+        ex:2009     "12.96336221" ;
+        ex:2010     "14.27699525" ;
+        ex:2011     "14.52212183" ;
+        ex:2012     "17.20211519" .
+
+<http://example.com/2/Croatia>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Croatia" ;
+        ex:2005     "4.10107793" ;
+        ex:2006     "20.25373955" ;
+        ex:2007     "7.545455934" ;
+        ex:2008     "7.292633199" ;
+        ex:2009     "15.62940229" ;
+        ex:2010     "30.30678959" ;
+        ex:2011     "35.60515501" ;
+        ex:2012     "34.77664741" .
+
+<http://example.com/2/Cyprus>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Cyprus" ;
+        ex:2005     "28.69960024" ;
+        ex:2006     "41.56074541" ;
+        ex:2007     "54.42189059" ;
+        ex:2008     "67.28303576" ;
+        ex:2009     "80.14418093" ;
+        ex:2010     "93.83862091" ;
+        ex:2011     "104.1998816" ;
+        ex:2012     "119.5609113" .
+
+<http://example.com/2/Czech%20Republic>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Czech Republic" ;
+        ex:2005     "21.07369247" ;
+        ex:2006     "22.66342489" ;
+        ex:2007     "23.12473528" ;
+        ex:2008     "24.41605281" ;
+        ex:2009     "29.58988247" ;
+        ex:2010     "33.556452" ;
+        ex:2011     "36.36024581" ;
+        ex:2012     "40.82348997" .
+
+<http://example.com/2/Germany>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Germany" ;
+        ex:2005     "50.01371603" ;
+        ex:2006     "50.7036557" ;
+        ex:2007     "51.39359537" ;
+        ex:2008     "52.08353504" ;
+        ex:2009     "52.77347472" ;
+        ex:2010     "53.84797253" ;
+        ex:2011     "53.38423747" ;
+        ex:2012     "55.22785187" .
+
+<http://example.com/2/Denmark>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Denmark" ;
+        ex:2005     "29.52857932" ;
+        ex:2006     "32.49060976" ;
+        ex:2007     "35.45264019" ;
+        ex:2008     "38.41467063" ;
+        ex:2009     "41.37670106" ;
+        ex:2010     "43.03151977" ;
+        ex:2011     "49.91518509" ;
+        ex:2012     "48.95558064" .
+
+<http://example.com/2/Spain>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Spain" ;
+        ex:2005     "37.95851267" ;
+        ex:2006     "33.72467798" ;
+        ex:2007     "29.72121726" ;
+        ex:2008     "33.86800212" ;
+        ex:2009     "46.08056765" ;
+        ex:2010     "53.61449071" ;
+        ex:2011     "61.83202185" ;
+        ex:2012     "83.45094621" .
+
+<http://example.com/2/Estonia>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Estonia" ;
+        ex:2005     "0.192187164" ;
+        ex:2006     "0.245291492" ;
+        ex:2007     "0.298395821" ;
+        ex:2008     "0.351500149" ;
+        ex:2009     "0.404604477" ;
+        ex:2010     "0.519205856" ;
+        ex:2011     "0.387819032" ;
+        ex:2012     "0.625414512" .
+
+<http://example.com/2/France>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "France" ;
+        ex:2005     "42.69043315" ;
+        ex:2006     "49.01270719" ;
+        ex:2007     "55.33498124" ;
+        ex:2008     "61.65725528" ;
+        ex:2009     "67.97952932" ;
+        ex:2010     "76.27848351" ;
+        ex:2011     "79.48345153" ;
+        ex:2012     "88.92396435" .
+
+<http://example.com/2/United%20Kingdom>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "United Kingdom" ;
+        ex:2005     "46.31469017" ;
+        ex:2006     "45.80533662" ;
+        ex:2007     "46.71701051" ;
+        ex:2008     "57.38258269" ;
+        ex:2009     "71.42362131" ;
+        ex:2010     "84.19476609" ;
+        ex:2011     "97.50660706" ;
+        ex:2012     "101.9509216" .
+
+<http://example.com/2/Greece>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Greece" ;
+        ex:2005     "37.15937095" ;
+        ex:2006     "53.6888944" ;
+        ex:2007     "70.21841784" ;
+        ex:2008     "86.74794129" ;
+        ex:2009     "103.2774647" ;
+        ex:2010     "132.4187425" ;
+        ex:2011     "111.1130028" ;
+        ex:2012     "165.4777894" .
+
+<http://example.com/2/Hungary>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Hungary" ;
+        ex:2005     "65.29249732" ;
+        ex:2006     "68.5948734" ;
+        ex:2007     "69.22755445" ;
+        ex:2008     "72.54313474" ;
+        ex:2009     "80.98148229" ;
+        ex:2010     "81.65024779" ;
+        ex:2011     "90.99908061" ;
+        ex:2012     "94.28021046" .
+
+<http://example.com/2/Ireland>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Ireland" ;
+        ex:2005     "30.77228151" ;
+        ex:2006     "27.01606584" ;
+        ex:2007     "26.95255197" ;
+        ex:2008     "46.82606805" ;
+        ex:2009     "66.97448582" ;
+        ex:2010     "83.68026006" ;
+        ex:2011     "109.9948371" ;
+        ex:2012     "130.4947733" .
+
+<http://example.com/2/Italy>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Italy" ;
+        ex:2005     "79.62639692" ;
+        ex:2006     "85.80349251" ;
+        ex:2007     "91.9805881" ;
+        ex:2008     "98.15768369" ;
+        ex:2009     "104.3347793" ;
+        ex:2010     "114.6817294" ;
+        ex:2011     "108.3492614" ;
+        ex:2012     "127.0359206" .
+
+<http://example.com/2/Lithuania>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Lithuania" ;
+        ex:2005     "23.71197689" ;
+        ex:2006     "26.89282439" ;
+        ex:2007     "30.07367188" ;
+        ex:2008     "33.25451938" ;
+        ex:2009     "36.43536687" ;
+        ex:2010     "40.63814613" ;
+        ex:2011     "40.75319834" ;
+        ex:2012     "46.99984111" .
+
+<http://example.com/2/Luxembourg>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Luxembourg" ;
+        ex:2005     "3.675329928" ;
+        ex:2006     "4.42019045" ;
+        ex:2007     "4.681462456" ;
+        ex:2008     "12.29401251" ;
+        ex:2009     "13.23077049" ;
+        ex:2010     "18.1877015" ;
+        ex:2011     "16.99613565" ;
+        ex:2012     "20.14661994" .
+
+<http://example.com/2/Latvia>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Latvia" ;
+        ex:2005     "19.36873324" ;
+        ex:2006     "23.40369365" ;
+        ex:2007     "27.43865405" ;
+        ex:2008     "21.68745534" ;
+        ex:2009     "41.73014371" ;
+        ex:2010     "50.43995596" ;
+        ex:2011     "42.26558501" ;
+        ex:2012     "41.59453671" .
+
+<http://example.com/2/Malta>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Malta" ;
+        ex:2005     "193.5122307" ;
+        ex:2006     "178.2882919" ;
+        ex:2007     "170.9141298" ;
+        ex:2008     "75.84570102" ;
+        ex:2009     "81.93561388" ;
+        ex:2010     "82.94168669" ;
+        ex:2011     "82.77014357" ;
+        ex:2012     "87.13057629" .
+
+<http://example.com/2/Netherlands>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Netherlands" ;
+        ex:2005     "48.2609335" ;
+        ex:2006     "42.69317744" ;
+        ex:2007     "40.21539999" ;
+        ex:2008     "52.83800845" ;
+        ex:2009     "55.12533355" ;
+        ex:2010     "58.62786455" ;
+        ex:2011     "62.42291139" ;
+        ex:2012     "68.53637215" .
+
+<http://example.com/2/Norway>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Norway" ;
+        ex:2005     "35.37091607" ;
+        ex:2006     "48.18815594" ;
+        ex:2007     "44.87967716" ;
+        ex:2008     "43.51568466" ;
+        ex:2009     "35.26874652" ;
+        ex:2010     "35.1377887" ;
+        ex:2011     "20.27956574" ;
+        ex:2012     "20.77493383" .
+
+<http://example.com/2/Poland>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Poland" ;
+        ex:2005     "46.83704817" ;
+        ex:2006     "46.79391442" ;
+        ex:2007     "42.47602525" ;
+        ex:2008     "44.57075181" ;
+        ex:2009     "47.43025857" ;
+        ex:2010     "50.98148174" ;
+        ex:2011     "51.57744021" ;
+        ex:2012     "55.15502839" .
+
+<http://example.com/2/Portugal>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Portugal" ;
+        ex:2005     "11.28032802" ;
+        ex:2006     "28.09694842" ;
+        ex:2007     "44.91356882" ;
+        ex:2008     "61.73018921" ;
+        ex:2009     "78.54680961" ;
+        ex:2010     "100.248368" ;
+        ex:2011     "102.4101745" ;
+        ex:2012     "133.8816088" .
+
+<http://example.com/2/Romania>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Romania" ;
+        ex:2005     "17.40091885" ;
+        ex:2006     "20.8908456" ;
+        ex:2007     "24.38077234" ;
+        ex:2008     "27.87069909" ;
+        ex:2009     "31.36062583" ;
+        ex:2010     "34.59767353" ;
+        ex:2011     "38.84623743" ;
+        ex:2012     "41.57752702" .
+
+<http://example.com/2/Slovak%20Republic>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Slovak Republic" ;
+        ex:2005     "36.43978533" ;
+        ex:2006     "32.26824609" ;
+        ex:2007     "31.18789636" ;
+        ex:2008     "29.58298" ;
+        ex:2009     "37.63044559" ;
+        ex:2010     "44.59620698" ;
+        ex:2011     "47.05895267" ;
+        ex:2012     "53.30985846" .
+
+<http://example.com/2/Slovenia>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Slovenia" .
+
+<http://example.com/2/Sweden>
+        ex:factor   "Central government debt, total" ;
+        ex:country  "Sweden" ;
+        ex:2005     "43.16030448" ;
+        ex:2006     "43.02921513" ;
+        ex:2007     "42.89812578" ;
+        ex:2008     "42.76703643" ;
+        ex:2009     "42.63594708" ;
+        ex:2010     "42.28350957" ;
+        ex:2011     "42.81646469" ;
+        ex:2012     "42.02133087" .
