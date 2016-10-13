@@ -105,9 +105,9 @@
         ex:country  "Netherlands" ;
         ex:count    "1" .
 
-<http://example.com/12/Norway>
+<http://example.com/12/Finland>
         ex:factor   "EU Top 20 Port Count" ;
-        ex:country  "Norway" ;
+        ex:country  "Finland" ;
         ex:count    "0" .
 
 <http://example.com/12/Poland>
