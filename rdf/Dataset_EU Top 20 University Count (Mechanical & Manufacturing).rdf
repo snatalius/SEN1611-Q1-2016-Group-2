@@ -105,9 +105,9 @@
         ex:country  "Netherlands" ;
         ex:count    "1" .
 
-<http://example.com/5/Norway>
+<http://example.com/5/Finland>
         ex:factor   "EU Top 20 University Count (Mechanical & Manufacturing)" ;
-        ex:country  "Norway" ;
+        ex:country  "Finland" ;
         ex:count    "0" .
 
 <http://example.com/5/Poland>
