@@ -135,8 +135,15 @@
 <http://example.com/7/Greece>
         ex:factor   "Government Spending on Education" ;
         ex:country  "Greece" ;
-        ex:2005     "3.96574" .
-
+        ex:2005     "3.96574" ;
+        ex:2006     "3.96574" ;
+        ex:2007     "3.96574" ;
+        ex:2008     "3.96574" ;
+        ex:2009     "3.96574" ;
+        ex:2010     "3.96574" ;
+        ex:2011     "3.96574" ;
+        ex:2012     "3.96574" .
+        
 <http://example.com/7/Hungary>
         ex:factor   "Government Spending on Education" ;
         ex:country  "Hungary" ;
@@ -200,7 +207,15 @@
 <http://example.com/7/Luxembourg>
         ex:factor   "Government Spending on Education" ;
         ex:country  "Luxembourg" .
-
+        ex:2005     "0.00000001" ;
+        ex:2006     "0.00000001" ;
+        ex:2007     "0.00000001" ;
+        ex:2008     "0.00000001" ;
+        ex:2009     "0.00000001" ;
+        ex:2010     "0.00000001" ;
+        ex:2011     "0.00000001" ;
+        ex:2012     "0.00000001" .
+        
 <http://example.com/7/Malta>
         ex:factor   "Government Spending on Education" ;
         ex:country  "Malta" ;
