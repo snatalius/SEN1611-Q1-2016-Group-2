@@ -314,7 +314,7 @@
 
 <http://example.com/2/Slovenia>
         ex:factor   "Central government debt, total" ;
-        ex:country  "Slovenia" .
+        ex:country  "Slovenia" ;
         ex:2005     "0.001" ;
         ex:2006     "0.001" ;
         ex:2007     "0.001" ;
