@@ -206,7 +206,7 @@
 
 <http://example.com/7/Luxembourg>
         ex:factor   "Government Spending on Education" ;
-        ex:country  "Luxembourg" .
+        ex:country  "Luxembourg" ;
         ex:2005     "0.00000001" ;
         ex:2006     "0.00000001" ;
         ex:2007     "0.00000001" ;
