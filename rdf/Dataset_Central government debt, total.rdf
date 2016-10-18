@@ -315,7 +315,15 @@
 <http://example.com/2/Slovenia>
         ex:factor   "Central government debt, total" ;
         ex:country  "Slovenia" .
-
+        ex:2005     "0.00000001" ;
+        ex:2006     "0.00000001" ;
+        ex:2007     "0.00000001" ;
+        ex:2008     "0.00000001" ;
+        ex:2009     "0.00000001" ;
+        ex:2010     "0.00000001" ;
+        ex:2011     "0.00000001" ;
+        ex:2012     "0.00000001"
+        
 <http://example.com/2/Sweden>
         ex:factor   "Central government debt, total" ;
         ex:country  "Sweden" ;
